@@ -1,0 +1,11 @@
+C:\Users\chung\source\repos\doanghenshin\GUi\bin\Debug\GUi.exe.config
+C:\Users\chung\source\repos\doanghenshin\GUi\bin\Debug\GUi.exe
+C:\Users\chung\source\repos\doanghenshin\GUi\bin\Debug\GUi.pdb
+C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.csproj.AssemblyReference.cache
+C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.Form1.resources
+C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.frmchinh.resources
+C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.Properties.Resources.resources
+C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.csproj.GenerateResource.cache
+C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.csproj.CoreCompileInputs.cache
+C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.exe
+C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.pdb

@@ -1,0 +1,45 @@
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\Login Avatar animation.exe
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\Login Avatar animation.pdb
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\Bunifu_UI_v1.5.3.DLL
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\DevExpress.Data.v17.2.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\DevExpress.Utils.v17.2.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\DevExpress.Data.v17.2.xml
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\DevExpress.Utils.v17.2.xml
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.csprojResolveAssemblyReference.cache
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\obj\Debug\Login_Avatar_animation.Form1.resources
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\obj\Debug\Login_Avatar_animation.Properties.Resources.resources
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.csproj.GenerateResource.Cache
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.csproj.CoreCompileInputs.cache
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.exe
+c:\users\chicco-x\documents\visual studio 2017\Projects\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.pdb
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\bin\Debug\Login Avatar animation.exe.config
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\bin\Debug\Login Avatar animation.exe
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\bin\Debug\Login Avatar animation.pdb
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\obj\Debug\Login_Avatar_animation.Form1.resources
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\obj\Debug\Login_Avatar_animation.Properties.Resources.resources
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.csproj.CopyComplete
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.exe
+C:\Users\nguye\Downloads\Login Avatar animation\Login Avatar animation\Login Avatar animation\obj\Debug\Login Avatar animation.pdb
