@@ -9,3 +9,14 @@ C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.csproj.GenerateResour
 C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.csproj.CoreCompileInputs.cache
 C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.exe
 C:\Users\chung\source\repos\doanghenshin\GUi\obj\Debug\GUi.pdb
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\bin\Debug\GUi.exe.config
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\bin\Debug\GUi.exe
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\bin\Debug\GUi.pdb
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUi.Form1.resources
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUi.frmMenu.resources
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUi.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUi.exe
+C:\Users\Administrator\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUi.pdb
