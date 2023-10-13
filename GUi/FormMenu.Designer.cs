@@ -105,7 +105,6 @@
             this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.pnHoaDon = new System.Windows.Forms.Panel();
-            this.cbbTaiXe = new System.Windows.Forms.ComboBox();
             this.btnSuaHD = new System.Windows.Forms.Button();
             this.btnXoaHD = new System.Windows.Forms.Button();
             this.label19 = new System.Windows.Forms.Label();
@@ -133,6 +132,7 @@
             this.dataGridViewTextBoxColumn13 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn14 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cbbTaiXe = new System.Windows.Forms.ComboBox();
             this.pnXeHoi.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picXeHoi)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
@@ -151,7 +151,7 @@
             this.fluentDesignFormContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.fluentDesignFormContainer1.Location = new System.Drawing.Point(52, 24);
             this.fluentDesignFormContainer1.Name = "fluentDesignFormContainer1";
-            this.fluentDesignFormContainer1.Size = new System.Drawing.Size(673, 449);
+            this.fluentDesignFormContainer1.Size = new System.Drawing.Size(639, 449);
             this.fluentDesignFormContainer1.TabIndex = 0;
             // 
             // pnXeHoi
@@ -481,7 +481,7 @@
             this.fluentDesignFormControl1.Location = new System.Drawing.Point(0, 0);
             this.fluentDesignFormControl1.Manager = this.fluentFormDefaultManager1;
             this.fluentDesignFormControl1.Name = "fluentDesignFormControl1";
-            this.fluentDesignFormControl1.Size = new System.Drawing.Size(725, 24);
+            this.fluentDesignFormControl1.Size = new System.Drawing.Size(691, 24);
             this.fluentDesignFormControl1.TabIndex = 2;
             this.fluentDesignFormControl1.TabStop = false;
             this.fluentDesignFormControl1.Visible = false;
@@ -825,17 +825,6 @@
             this.pnHoaDon.TabIndex = 7;
             this.pnHoaDon.Visible = false;
             // 
-            // cbbTaiXe
-            // 
-            this.cbbTaiXe.FormattingEnabled = true;
-            this.cbbTaiXe.Items.AddRange(new object[] {
-            "Có",
-            "Không"});
-            this.cbbTaiXe.Location = new System.Drawing.Point(109, 224);
-            this.cbbTaiXe.Name = "cbbTaiXe";
-            this.cbbTaiXe.Size = new System.Drawing.Size(70, 21);
-            this.cbbTaiXe.TabIndex = 7;
-            // 
             // btnSuaHD
             // 
             this.btnSuaHD.Location = new System.Drawing.Point(299, 370);
@@ -1047,11 +1036,22 @@
             this.dataGridViewTextBoxColumn14.HeaderText = "Tông Tiền";
             this.dataGridViewTextBoxColumn14.Name = "dataGridViewTextBoxColumn14";
             // 
+            // cbbTaiXe
+            // 
+            this.cbbTaiXe.FormattingEnabled = true;
+            this.cbbTaiXe.Items.AddRange(new object[] {
+            "Có",
+            "Không"});
+            this.cbbTaiXe.Location = new System.Drawing.Point(109, 224);
+            this.cbbTaiXe.Name = "cbbTaiXe";
+            this.cbbTaiXe.Size = new System.Drawing.Size(70, 21);
+            this.cbbTaiXe.TabIndex = 7;
+            // 
             // FormMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(725, 473);
+            this.ClientSize = new System.Drawing.Size(691, 473);
             this.ControlContainer = this.fluentDesignFormContainer1;
             this.Controls.Add(this.pnXeMay);
             this.Controls.Add(this.pnXeHoi);
