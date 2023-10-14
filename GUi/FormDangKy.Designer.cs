@@ -39,10 +39,10 @@
             this.btnDangKy = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
             this.txtSoDienThoai = new System.Windows.Forms.TextBox();
-            this.picThoat = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.picThoat = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.picThoat)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
@@ -113,12 +113,16 @@
             // 
             // btnDangKy
             // 
-            this.btnDangKy.Location = new System.Drawing.Point(107, 322);
+            this.btnDangKy.BackColor = System.Drawing.Color.White;
+            this.btnDangKy.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnDangKy.ForeColor = System.Drawing.Color.Black;
+            this.btnDangKy.Location = new System.Drawing.Point(123, 325);
             this.btnDangKy.Name = "btnDangKy";
             this.btnDangKy.Size = new System.Drawing.Size(75, 23);
             this.btnDangKy.TabIndex = 9;
             this.btnDangKy.Text = "Đăng ký";
-            this.btnDangKy.UseVisualStyleBackColor = true;
+            this.btnDangKy.UseVisualStyleBackColor = false;
+            this.btnDangKy.Click += new System.EventHandler(this.btnDangKy_Click);
             // 
             // label7
             // 
@@ -136,24 +140,6 @@
             this.txtSoDienThoai.Size = new System.Drawing.Size(143, 20);
             this.txtSoDienThoai.TabIndex = 11;
             // 
-            // picThoat
-            // 
-            this.picThoat.Image = global::GUi.Properties.Resources.back;
-            this.picThoat.Location = new System.Drawing.Point(2, 0);
-            this.picThoat.Name = "picThoat";
-            this.picThoat.Size = new System.Drawing.Size(100, 50);
-            this.picThoat.TabIndex = 12;
-            this.picThoat.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = global::GUi.Properties.Resources.cat;
-            this.pictureBox3.Location = new System.Drawing.Point(127, 12);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(67, 68);
-            this.pictureBox3.TabIndex = 5;
-            this.pictureBox3.TabStop = false;
-            // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(107, 184);
@@ -169,6 +155,25 @@
             this.label2.Size = new System.Drawing.Size(73, 13);
             this.label2.TabIndex = 14;
             this.label2.Text = "Tên tài khoản";
+            // 
+            // picThoat
+            // 
+            this.picThoat.Image = global::GUi.Properties.Resources.go_back_arrow;
+            this.picThoat.Location = new System.Drawing.Point(4, 0);
+            this.picThoat.Name = "picThoat";
+            this.picThoat.Size = new System.Drawing.Size(94, 71);
+            this.picThoat.TabIndex = 12;
+            this.picThoat.TabStop = false;
+            this.picThoat.Click += new System.EventHandler(this.picThoat_Click);
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::GUi.Properties.Resources.cat;
+            this.pictureBox3.Location = new System.Drawing.Point(127, 12);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(67, 68);
+            this.pictureBox3.TabIndex = 5;
+            this.pictureBox3.TabStop = false;
             // 
             // FormDangKy
             // 

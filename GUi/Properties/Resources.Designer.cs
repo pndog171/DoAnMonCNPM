@@ -173,6 +173,16 @@ namespace GUi.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap go_back_arrow {
+            get {
+                object obj = ResourceManager.GetObject("go-back-arrow", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap google__1_ {
             get {
                 object obj = ResourceManager.GetObject("google (1)", resourceCulture);
