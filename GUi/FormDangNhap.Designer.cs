@@ -91,9 +91,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(453, 248);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(56, 13);
+            this.label2.Size = new System.Drawing.Size(55, 13);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Tài Khoản";
+            this.label2.Text = "Tài khoản";
             // 
             // btnDangKy
             // 
@@ -104,7 +104,7 @@
             this.btnDangKy.Name = "btnDangKy";
             this.btnDangKy.Size = new System.Drawing.Size(75, 23);
             this.btnDangKy.TabIndex = 3;
-            this.btnDangKy.Text = "Đăng Ký";
+            this.btnDangKy.Text = "Đăng ký";
             this.btnDangKy.UseVisualStyleBackColor = false;
             // 
             // btnDangNhap
@@ -214,9 +214,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(453, 323);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(53, 13);
+            this.label5.Size = new System.Drawing.Size(52, 13);
             this.label5.TabIndex = 2;
-            this.label5.Text = "Mật Khẩu";
+            this.label5.Text = "Mật khẩu";
             // 
             // pictureBox5
             // 
