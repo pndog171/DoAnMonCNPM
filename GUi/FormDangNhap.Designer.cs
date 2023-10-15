@@ -106,6 +106,7 @@
             this.btnDangKy.TabIndex = 3;
             this.btnDangKy.Text = "Đăng ký";
             this.btnDangKy.UseVisualStyleBackColor = false;
+            this.btnDangKy.Click += new System.EventHandler(this.btnDangKy_Click);
             // 
             // btnDangNhap
             // 
@@ -236,6 +237,7 @@
             this.pictureBox6.Size = new System.Drawing.Size(40, 34);
             this.pictureBox6.TabIndex = 6;
             this.pictureBox6.TabStop = false;
+            this.pictureBox6.Click += new System.EventHandler(this.pictureBox6_Click);
             // 
             // pictureBox4
             // 

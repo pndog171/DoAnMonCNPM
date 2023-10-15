@@ -40,16 +40,16 @@
             this.label7 = new System.Windows.Forms.Label();
             this.txtSoDienThoai = new System.Windows.Forms.TextBox();
             this.picThoat = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.pictureBoxAnh = new System.Windows.Forms.PictureBox();
+            this.txtTenTK = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picThoat)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxAnh)).BeginInit();
             this.SuspendLayout();
             // 
             // txtTenNguoiDung
             // 
-            this.txtTenNguoiDung.Location = new System.Drawing.Point(107, 111);
+            this.txtTenNguoiDung.Location = new System.Drawing.Point(107, 151);
             this.txtTenNguoiDung.Name = "txtTenNguoiDung";
             this.txtTenNguoiDung.Size = new System.Drawing.Size(143, 20);
             this.txtTenNguoiDung.TabIndex = 4;
@@ -74,7 +74,7 @@
             // 
             // txtMatKhau
             // 
-            this.txtMatKhau.Location = new System.Drawing.Point(107, 147);
+            this.txtMatKhau.Location = new System.Drawing.Point(107, 188);
             this.txtMatKhau.Name = "txtMatKhau";
             this.txtMatKhau.Size = new System.Drawing.Size(143, 20);
             this.txtMatKhau.TabIndex = 4;
@@ -119,6 +119,7 @@
             this.btnDangKy.TabIndex = 9;
             this.btnDangKy.Text = "Đăng ký";
             this.btnDangKy.UseVisualStyleBackColor = true;
+            this.btnDangKy.Click += new System.EventHandler(this.btnDangKy_Click);
             // 
             // label7
             // 
@@ -144,22 +145,25 @@
             this.picThoat.Size = new System.Drawing.Size(100, 50);
             this.picThoat.TabIndex = 12;
             this.picThoat.TabStop = false;
+            this.picThoat.Click += new System.EventHandler(this.picThoat_Click);
             // 
-            // pictureBox3
+            // pictureBoxAnh
             // 
-            this.pictureBox3.Image = global::GUi.Properties.Resources.cat;
-            this.pictureBox3.Location = new System.Drawing.Point(127, 12);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(67, 68);
-            this.pictureBox3.TabIndex = 5;
-            this.pictureBox3.TabStop = false;
+            this.pictureBoxAnh.Image = global::GUi.Properties.Resources.cat;
+            this.pictureBoxAnh.Location = new System.Drawing.Point(127, 12);
+            this.pictureBoxAnh.Name = "pictureBoxAnh";
+            this.pictureBoxAnh.Size = new System.Drawing.Size(67, 68);
+            this.pictureBoxAnh.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxAnh.TabIndex = 5;
+            this.pictureBoxAnh.TabStop = false;
+            this.pictureBoxAnh.Click += new System.EventHandler(this.pictureBoxAnh_Click);
             // 
-            // textBox1
+            // txtTenTK
             // 
-            this.textBox1.Location = new System.Drawing.Point(107, 184);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(143, 20);
-            this.textBox1.TabIndex = 13;
+            this.txtTenTK.Location = new System.Drawing.Point(107, 115);
+            this.txtTenTK.Name = "txtTenTK";
+            this.txtTenTK.Size = new System.Drawing.Size(143, 20);
+            this.txtTenTK.TabIndex = 13;
             // 
             // label2
             // 
@@ -177,7 +181,7 @@
             this.BackColor = System.Drawing.Color.LightSkyBlue;
             this.ClientSize = new System.Drawing.Size(300, 361);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtTenTK);
             this.Controls.Add(this.picThoat);
             this.Controls.Add(this.txtSoDienThoai);
             this.Controls.Add(this.label7);
@@ -186,7 +190,7 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.pictureBox3);
+            this.Controls.Add(this.pictureBoxAnh);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.txtNhapLaiMatKhau);
             this.Controls.Add(this.txtMatKhau);
@@ -196,7 +200,7 @@
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.frmDangNhap_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picThoat)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxAnh)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -204,7 +208,7 @@
 
         #endregion
         private System.Windows.Forms.TextBox txtTenNguoiDung;
-        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.PictureBox pictureBoxAnh;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtMatKhau;
@@ -216,7 +220,7 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox txtSoDienThoai;
         private System.Windows.Forms.PictureBox picThoat;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtTenTK;
         private System.Windows.Forms.Label label2;
     }
 }

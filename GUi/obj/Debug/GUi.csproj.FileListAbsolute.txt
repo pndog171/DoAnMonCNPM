@@ -73,3 +73,4 @@ C:\Users\haigu\OneDrive\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUI.csproj.Co
 C:\Users\haigu\OneDrive\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\haigu\OneDrive\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUi.exe
 C:\Users\haigu\OneDrive\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUi.pdb
+C:\Users\haigu\OneDrive\Documents\GitHub\DoAnMonCNPM\GUi\obj\Debug\GUi.FormDangKy.resources

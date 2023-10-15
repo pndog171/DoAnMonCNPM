@@ -42,6 +42,7 @@ namespace GUi
             location[21] = @"C:\animation-20231013T160702Z-001\animation\textbox_user_23.jpg";
             location[22] = @"C:\animation-20231013T160702Z-001\animation\textbox_user_24.jpg";
             tounage();
+            txtMatKhau.PasswordChar = '*'; // Khi ta nhập vô ô mật khẩu hiển thị dưới dấu "."
         }
 
         private void tounage()
@@ -71,6 +72,7 @@ namespace GUi
             DialogResult DR = MessageBox.Show("Bạn có muốn thoát không", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (DR == DialogResult.Yes)
                 this.Close();
+            Application.Exit();
         }
 
         private void txtTaiKhoan_TextChanged_1(object sender, EventArgs e)
@@ -127,7 +129,27 @@ namespace GUi
                 this.Show();
             }
         }
+        
 
+        private void btnDangKy_Click(object sender, EventArgs e)
+        {
 
+            FormDangKy f = new FormDangKy();
+            this.Hide();
+            f.ShowDialog();
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            if (txtMatKhau.PasswordChar == '*')
+            {
+                txtMatKhau.PasswordChar = '\0'; //Chuyền về kí tự thường
+            }
+            else
+            {
+                txtMatKhau.PasswordChar = '*';
+            }
+
+        }
     }
 }
